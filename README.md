@@ -75,3 +75,7 @@ Volg deze stappen om de bot op te zetten:
 ## Optioneel
 
 Als je ervoor kiest om een aangepaste database of een zelf-gehoste MongoDB te gebruiken, moet je dit configureren in het `Warns/ ticket config.js`-bestand en mogelijk in de botcode aanpassen.
+
+## suggetie
+Suggettie? pls dm me xianken (1185678867831214080) 
+or join my dc: https://discord.gg/46cGKA8QMd
