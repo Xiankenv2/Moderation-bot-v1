@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "BOT_CLEIND_OR ID",
+  "guildId": "YOUR_SEVERID_OT_GUILDID",
+  "mongodbURL": "You_mongoose_TOKEN"
+}
+

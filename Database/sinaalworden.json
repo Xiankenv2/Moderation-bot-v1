@@ -1,0 +1,22 @@
+{
+    "signalWords": [
+        { "word": "help", "response": "How can I assist you?" },
+        { "word": "problem", "response": "Please describe your issue in detail." },
+        { "word": "assistance", "response": "Our support team will be with you shortly." },
+        { "word": "issue", "response": "What seems to be the issue?" }
+    ],
+    "signalPhrases": [
+        { "phrase": "I need help", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "Can you help me", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "I have a problem", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "I need assistance", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "Can someone assist me", "response": "Our support team is here to help. What seems to be the issue?" }, 
+        { "phrase": "I am facing an issue", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "help with", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "Who can help my?", "response": "Our support team is here to help. What seems to be the issue?" },
+        { "phrase": "Can else help my?", "response": "Our support team will be with you shortly." },
+        { "phrase": "Help me pls", "response": "Our support team will be with you shortly." },
+        { "phrase": "Pls Help me", "response": "Our support team will be with you shortly." },
+        { "phrase": "Can you assist me", "response": "Our support team will be with you shortly." }
+    ]
+}
